@@ -1,0 +1,15 @@
+[package]
+name = "fingerprint_sensor"
+version = "0.1.0"
+edition = "2021"
+authors = ["Mithilesh mitumithilesh@gmail.com"]
+description = "A Rust library for controlling R502-A fingerprint sensors over serial communication"
+license = "MIT"
+repository = "https://github.com/kingsmen732/fingerprint_sensor"
+readme = "README.md"
+keywords = ["fingerprint", "sensor", "serial", "biometrics"]
+categories = ["hardware-support", "api-bindings"]
+
+[dependencies]
+serialport = "4.2"
+

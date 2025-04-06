@@ -9,10 +9,6 @@ repository = "https://github.com/kingsmen732/fingerprint_sensor"
 readme = "README.md"
 keywords = ["fingerprint", "sensor", "serial", "biometrics"]
 categories = ["hardware-support", "api-bindings"]
-
-[dependencies]
-serialport = "4.2"
-
 exclude = [
     "src/test.rs",
     "*.jpg",
@@ -22,3 +18,7 @@ exclude = [
     "assets/",
     "target/",
 ]
+
+[dependencies]
+serialport = "4.2"
+

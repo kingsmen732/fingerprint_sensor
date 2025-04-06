@@ -1,0 +1,2 @@
+window.ALL_CRATES = ["Grow_r502_a_fingerprint_sensor","bitflags","cfg_if","libc","libudev","libudev_sys","nix","proc_macro2","quote","scopeguard","serialport","syn","thiserror","thiserror_impl","unescaper","unicode_ident"];
+//{"start":21,"fragment_lengths":[32,11,9,7,10,14,6,14,8,13,13,6,12,17,12,16]}

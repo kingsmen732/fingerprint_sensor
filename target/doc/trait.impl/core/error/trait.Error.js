@@ -1,0 +1,9 @@
+(function() {
+    var implementors = Object.fromEntries([["libudev",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.84.1/core/error/trait.Error.html\" title=\"trait core::error::Error\">Error</a> for <a class=\"struct\" href=\"libudev/struct.Error.html\" title=\"struct libudev::Error\">Error</a>"]]],["nix",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.84.1/core/error/trait.Error.html\" title=\"trait core::error::Error\">Error</a> for <a class=\"enum\" href=\"nix/errno/enum.Errno.html\" title=\"enum nix::errno::Errno\">Errno</a>"]]],["proc_macro2",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.84.1/core/error/trait.Error.html\" title=\"trait core::error::Error\">Error</a> for <a class=\"struct\" href=\"proc_macro2/struct.LexError.html\" title=\"struct proc_macro2::LexError\">LexError</a>"]]],["serialport",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.84.1/core/error/trait.Error.html\" title=\"trait core::error::Error\">Error</a> for <a class=\"struct\" href=\"serialport/struct.Error.html\" title=\"struct serialport::Error\">Error</a>"]]],["syn",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.84.1/core/error/trait.Error.html\" title=\"trait core::error::Error\">Error</a> for <a class=\"struct\" href=\"syn/parse/struct.Error.html\" title=\"struct syn::parse::Error\">Error</a>"]]],["unescaper",[["impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.84.1/core/error/trait.Error.html\" title=\"trait core::error::Error\">Error</a> for <a class=\"enum\" href=\"unescaper/enum.Error.html\" title=\"enum unescaper::Error\">Error</a>"]]]]);
+    if (window.register_implementors) {
+        window.register_implementors(implementors);
+    } else {
+        window.pending_implementors = implementors;
+    }
+})()
+//{"start":57,"fragment_lengths":[257,253,279,267,259,258]}

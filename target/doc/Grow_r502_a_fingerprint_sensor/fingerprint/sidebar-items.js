@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["delete_fingerprint","enroll_fingerprint","list_fingerprints","send_packet","verify_fingerprint"]};

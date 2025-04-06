@@ -13,3 +13,12 @@ categories = ["hardware-support", "api-bindings"]
 [dependencies]
 serialport = "4.2"
 
+exclude = [
+    "src/test.rs",
+    "*.jpg",
+    "*.png",
+    "*.mp4",
+    "examples/",
+    "assets/",
+    "target/",
+]

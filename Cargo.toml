@@ -1,5 +1,5 @@
 [package]
-name = "fingerprint_sensor"
+name = "Grow-r502-a_fingerprint_sensor"
 version = "0.1.0"
 edition = "2021"
 authors = ["Mithilesh mitumithilesh@gmail.com"]

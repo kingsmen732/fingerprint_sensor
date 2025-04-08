@@ -52,7 +52,9 @@ fn main() {
     fingerprint::delete_fingerprint(&mut *port, 5).unwrap();
 }
 ```
-
+---
+## Research colab AIR CENTER 
+Research outcome supported by Indominus labs Private Limited(IITM) and Digital Fortress Private Limited(VITAP)
 ---
 
 ## 💡 Sensor Compatibility

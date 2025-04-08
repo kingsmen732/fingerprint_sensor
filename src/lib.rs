@@ -1,5 +1,5 @@
 use serialport;
-use std::io::{Read, Write};
+// use std::io::{Read, Write};
 use std::time::Duration;
 
 pub mod fingerprint {

@@ -2,6 +2,16 @@
 
 A Rust library for interfacing with R502-A and compatible fingerprint sensors via serial communication.
 
+RAW implementation of this project is available in:
+- RUST
+- PYTHON
+- CPP 
+
+[ ⭐ Link to the Project](https://github.com/kingsmen732/GROW_R502-A_fingerprint) 
+
+If link not redirecting use :
+https://github.com/kingsmen732/GROW_R502-A_fingerprint
+
 This crate enables enrolling, verifying, listing, and deleting fingerprints using the sensor's built-in flash memory.
 
 ## ✨ Features
@@ -53,8 +63,10 @@ fn main() {
 }
 ```
 ---
-## Research colab AIR CENTER 
-Research outcome supported by Indominus labs Private Limited(IITM) and Digital Fortress Private Limited(VITAP)
+## 📜 Research colab in AIR CENTER 
+
+Research outcome supported by <b> Indominus labs Private Limited (IITM)</b > and <b> Digital Fortress Private Limited (VITAP) </b>
+
 ---
 
 ## 💡 Sensor Compatibility

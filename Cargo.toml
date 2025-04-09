@@ -1,6 +1,6 @@
 [package]
 name = "Grow-r502-a_fingerprint_sensor"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 authors = ["Mithilesh mitumithilesh@gmail.com"]
 description = "A Rust library for controlling R502-A fingerprint sensors over serial communication"

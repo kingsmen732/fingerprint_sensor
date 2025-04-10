@@ -65,7 +65,7 @@ fn main() {
 ---
 ## 📜 Research colab in AIR CENTER 
 
-Research outcome supported by <b> Indominus labs Private Limited (IITM)</b > and <b> Digital Fortress Private Limited (VITAP) </b>
+Research outcome supported by <b> Indominus labs Private Limited </b > and <b> Digital Fortress Private Limited </b>
 
 ---
 

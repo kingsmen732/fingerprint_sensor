@@ -62,12 +62,15 @@ fn main() {
     fingerprint::delete_fingerprint(&mut *port, 5).unwrap();
 }
 ```
----
+## 🌟 Acknowledgements
+
+This project acknowledges the invaluable guidance and support of Prof. Sibi Chakkaravarthy Sethuraman (VIT-AP University) and Prof. Chester Rebeiro (Indian Institute of Technology Madras) in the development of this tool. Their expertise and contributions have been instrumental in bringing this project to fruition.
+
 ## 📜 Research colab in AIR CENTER 
 
 Research outcome supported by <b> Indominus labs Private Limited </b > and <b> Digital Fortress Private Limited </b>
 
----
+
 
 ## 💡 Sensor Compatibility
 
